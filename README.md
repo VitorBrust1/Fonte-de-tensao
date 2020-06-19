@@ -27,7 +27,7 @@ O projeto consiste no desenvolvimento e simulação de uma fonte de tensão que 
   etc ...
 
 - ## Link para o circuito no falstad
-  (link)
+  http://tinyurl.com/y8896mdu  
 - ## Link para o vídeo explicativo:
   https://www.youtube.com/channel/UCYX2BrasfmQPxD01NNn-ICA?view_as=subscriber
 
