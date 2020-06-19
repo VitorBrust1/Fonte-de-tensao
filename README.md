@@ -4,41 +4,41 @@ O projeto consiste no desenvolvimento e simulação de uma fonte de tensão que 
 
 # Simulação da fonte no Falstad
 
-## Diagrama
+- ## Diagrama
 
-(imagem do circuito no falstad)
+  (imagem do circuito no falstad)
 
-## Componentes
+- ## Componentes
 
-| Nome | Especificações | Preço (unidade)| Quantidade | 
-|--|--|--|--|
-|--|--|--|--|
-|--|--|--|--|
-|--|--|--|--|
-|--|--|--|--|
-|--|--|--|--|
-|--|--|--|--|
-|--|--|--|--|
-|--|--|--|--|
+  | Nome | Especificações | Preço (unidade)| Quantidade | 
+  |--|--|--|--|
+  |--|--|--|--|
+  |--|--|--|--|
+  |--|--|--|--|
+  |--|--|--|--|
+  |--|--|--|--|
+  |--|--|--|--|
+  |--|--|--|--|
+  |--|--|--|--|
 
-## Justificativa para escolha dos componentes
+- ## Justificativa para escolha dos componentes
 
-Resistor de 1kΩ : Limitar a corrente elétrica que passa pelo diodo zener
-Resistor de 100Ω : 
-etc ...
+  Resistor de 1kΩ : Limitar a corrente elétrica que passa pelo diodo zener
+  Resistor de 100Ω : 
+  etc ...
 
-## Link para o circuito no falstad
-(link)
-## Link para o vídeo explicativo:
-https://www.youtube.com/channel/UCYX2BrasfmQPxD01NNn-ICA?view_as=subscriber
+- ## Link para o circuito no falstad
+  (link)
+- ## Link para o vídeo explicativo:
+  https://www.youtube.com/channel/UCYX2BrasfmQPxD01NNn-ICA?view_as=subscriber
 
 # Projeto do Esquemático e do PCB no EAGLE
 
-## Esquemático
-(imagem do esquemático)
+- ## Esquemático
+  (imagem do esquemático)
 
-## PCB
-(imagem do PCB)
+- ## PCB
+  (imagem do PCB)
 
 # Participantes
 
