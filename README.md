@@ -23,8 +23,7 @@ O projeto consiste no desenvolvimento e simulação de uma fonte de tensão que 
 
 - ## Justificativa para escolha dos componentes
 
-  Resistor de 1kΩ : Limitar a corrente elétrica que passa pelo diodo zener
-  Resistor de 100Ω : 
+  Resistor de 1kΩ : Limitar a corrente elétrica que passa pelo diodo zener 
   etc ...
 
 - ## Link para o circuito no falstad
