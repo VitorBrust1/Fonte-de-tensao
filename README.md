@@ -1,4 +1,4 @@
-# Projeto Fonte de Tensao
+# Projeto Fonte de Tensão
   Projeto da disciplina Elêtronica para Computação (SSC0180-2020101) 2020, USP São Carlos.
 O projeto consiste no desenvolvimento e simulação de uma fonte de tensão que converta a corrente alternada da tomada de tensão 127V  para uma tensão ajustável de 3V a 12V de corrente contínua com capacidade de 100mA.
 
