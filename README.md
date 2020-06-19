@@ -11,20 +11,20 @@ O projeto consiste no desenvolvimento e simulação de uma fonte de tensão que 
 - ## Componentes
 
   | Nome | Especificações | Preço (unidade)| Quantidade | 
-  |--|--|--|--|
-  |--|--|--|--|
-  |--|--|--|--|
-  |--|--|--|--|
-  |--|--|--|--|
-  |--|--|--|--|
-  |--|--|--|--|
-  |--|--|--|--|
+  |Resistor|--|--|--|
+  |Resistor|--|--|
+  |Resistor|--|--|--|
+  |Capacitor|--|--|--|
+  |Diodo Zener|--|--|--|
+  |Transformador|--|--|--|
+  |Diodo|--|--|--|
+  |Potênciometro|--|--|
   |--|--|--|--|
 
 - ## Justificativa para escolha dos componentes
 
   Resistor de 1kΩ : Limitar a corrente elétrica que passa pelo diodo zener 
-  etc ...
+
 
 - ## Link para o circuito no falstad
   http://tinyurl.com/y8896mdu  
