@@ -8,7 +8,7 @@ O projeto consiste no desenvolvimento e simulação de uma fonte de tensão que 
 
 ![Diagrama Falstad](https://user-images.githubusercontent.com/50035537/85180096-f249a400-b258-11ea-9882-2796481ba3f4.png)
 
-- ## Componentes
+ - ## Componentes
 | Nome | Especificações | Preço(unidade) | Quantidade |
 |--|--|--|--|
 | Resistor | 120Ω |  | 1 |
@@ -21,16 +21,25 @@ O projeto consiste no desenvolvimento e simulação de uma fonte de tensão que 
 | Potênciometro | 1KΩ |  | 1 |
 | Transistor NPN |  |  | 1 |
 
-- ## Justificativa para escolha dos componentes
-  Transformador:
-  Diodos:
-  Capacitor de 470µF:
-  Resistor de 470Ω:
-  Diodo Zener 13V:
-  Transistor NPN:
-  Potênciometro de 1KΩ
-  Resistor de 390Ω:
-  Resistor de 120Ω :
+ - ## Justificativa para escolha dos componentes
+
+	- Transformador: Converter a Tensão de 127V da tomada para 20V.
+	
+	- Diodos: Foram dispostos de maneira que formem uma ponte de diodos, a 		      qual tem por função transformas a corrente alternada vinda da tomada em corrente contínua no circuito.
+	
+	- Capacitor de 470µF: Estabilização da tensão no circuito
+	
+	- Resistor de 470Ω:
+	
+	- Diodo Zener 13V:
+	
+	- Transistor NPN:
+	
+	- Potênciometro de 1KΩ:
+	
+	- Resistor de 390Ω:
+	
+	- Resistor de 120Ω :
   
 - ## Link para o circuito no falstad
   http://tinyurl.com/y8896mdu  
