@@ -11,14 +11,14 @@ O projeto consiste no desenvolvimento e simulação de uma fonte de tensão que 
  - ## Componentes
 | Nome | Especificações | Preço(unidade) | Quantidade |
 |--|--|--|--|
-| Resistor | 120Ω |  | 1 |
-| Resistor  | 390Ω |  | 1 |
-| Resistor | 470Ω |  | 1 |
-| Capacitor | 470µF |  | 1 |
-| Diodo Zener | 13V |  | 1 |
+| Resistor | 120Ω | 0.10 R$ | 1 |
+| Resistor  | 390Ω | 0.96 R$ | 1 |
+| Resistor | 470Ω | 0.13 R$ | 1 |
+| Capacitor | 470µF | 0.90 R$ | 1 |
+| Diodo Zener | 13V | 0.82 R$ | 1 |
 | Transformador |  |  | 1 |
 | Diodo |  |  | 4 |
-| Potênciometro | 1KΩ |  | 1 |
+| Potênciometro | 1KΩ | 1.11 R$ | 1 |
 | Transistor NPN |  |  | 1 |
 
  - ## Justificativa para escolha dos componentes
