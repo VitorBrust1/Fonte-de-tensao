@@ -10,23 +10,23 @@ O projeto consiste no desenvolvimento e simulação de uma fonte de tensão que 
 
  - ## Componentes utilizados
  
- 	- Capacitor: Estabilização da tensão no circuito
+ 	- Capacitor: Estabilização da tensão no circuito por meio do armazenamento de quantidades de energia.
 	
-	- Diodos: Foram dispostos de maneira que formem uma ponte de diodos, a qual tem por função transformas a corrente alternada vinda da tomada em corrente contínua no circuito.
+	- Diodo: Permite que a corrente corra em um único sentido. Foram dispostos de maneira que formem uma ponte de diodos, a qual tem por função transformar a corrente alternada vinda da tomada em corrente contínua no circuito.
 	
-	- Diodo Zener:
+	- Diodo Zener: 
 	
-	- Potênciometro:
+	- Potênciometro: Resistor em que é possível ajustar sua potência.
 	
-	- Resistor:
+	- Resistor: Limitar a corrente elétrica em um circuito.
 	
-	- Switch:
+	- Switch: Permitir a passagem de corrente elétrica para o circuito, funcionando como uma chave de liga e desliga.
 	
-	- Transistor NPN:
+	- Transistor NPN: 
 	
 	- Transformador: Converter a Tensão de 127V da tomada para 20V.
 	
- - ## Preço e especificações
+ - ## Preços e especificações
  
 | Nome | Especificações | Preço(unidade) | Quantidade |
 |--|--|--|--|
