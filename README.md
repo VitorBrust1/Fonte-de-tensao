@@ -11,22 +11,27 @@ O projeto consiste no desenvolvimento e simulação de uma fonte de tensão que 
 - ## Componentes
 | Nome | Especificações | Preço(unidade) | Quantidade |
 |--|--|--|--|
-| Resistor |  |  |  |
-| Resistor |  |  |  |
-| Resistor |  |  |  |
-| Capacitor |  |  |  |
-| Diodo Zener |  |  |  |
-| Transformador |  |  |  |
-| Diodo |  |  |  |
-| Potênciometro |  |  |  |
-| Resistor |  |  |  |
-| Resistor |  |  |  |
+| Resistor | 120Ω |  | 1 |
+| Resistor  | 390Ω |  | 1 |
+| Resistor | 470Ω |  | 1 |
+| Capacitor | 470µF |  | 1 |
+| Diodo Zener | 13V |  | 1 |
+| Transformador |  |  | 1 |
+| Diodo |  |  | 4 |
+| Potênciometro | 1KΩ |  | 1 |
+| Transistor NPN |  |  | 1 |
 
 - ## Justificativa para escolha dos componentes
-
-  Resistor de 1kΩ : Limitar a corrente elétrica que passa pelo diodo zener 
-
-
+  Transformador:
+  Diodos:
+  Capacitor de 470µF:
+  Resistor de 470Ω:
+  Diodo Zener 13V:
+  Transistor NPN:
+  Potênciometro de 1KΩ
+  Resistor de 390Ω:
+  Resistor de 120Ω :
+  
 - ## Link para o circuito no falstad
   http://tinyurl.com/y8896mdu  
 - ## Link para o vídeo explicativo:
