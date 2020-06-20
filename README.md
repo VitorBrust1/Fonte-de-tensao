@@ -8,21 +8,8 @@ O projeto consiste no desenvolvimento e simulação de uma fonte de tensão que 
 
 ![Diagrama Falstad](https://user-images.githubusercontent.com/50035537/85180096-f249a400-b258-11ea-9882-2796481ba3f4.png)
 
- - ## Componentes
-| Nome | Especificações | Preço(unidade) | Quantidade |
-|--|--|--|--|
-| Capacitor | 470µF / 25V | 0.30 R$ | 1 |
-| Diodo |  | 0.10 R$ | 4 |
-| Diodo Zener | 13V | 0.82 R$ | 1 |
-| Potênciometro | 1KΩ | 1.11 R$ | 1 |
-| Resistor | 120Ω | 0.10 R$ | 1 |
-| Resistor  | 390Ω | 0.96 R$ | 1 |
-| Resistor | 470Ω | 0.13 R$ | 1 |
-| Switch |  | 0.10 R$ | 1 |
-| Transistor NPN |  |  | 1 |	
-| Transformador |  |  | 1 |
-
- - ## Função dos componentes
+ - ## Componentes utilizados
+ 
  	- Capacitor: Estabilização da tensão no circuito
 	
 	- Diodos: Foram dispostos de maneira que formem uma ponte de diodos, a qual tem por função transformas a corrente alternada vinda da tomada em corrente contínua no circuito.
@@ -39,6 +26,20 @@ O projeto consiste no desenvolvimento e simulação de uma fonte de tensão que 
 	
 	- Transformador: Converter a Tensão de 127V da tomada para 20V.
 	
+ - ## Preço e especificações
+ 
+| Nome | Especificações | Preço(unidade) | Quantidade |
+|--|--|--|--|
+| Capacitor | 470µF / 25V | 0.30 R$ | 1 |
+| Diodo |  | 0.10 R$ | 4 |
+| Diodo Zener | 13V | 0.82 R$ | 1 |
+| Potênciometro | 1KΩ | 1.11 R$ | 1 |
+| Resistor | 120Ω | 0.10 R$ | 1 |
+| Resistor  | 390Ω | 0.96 R$ | 1 |
+| Resistor | 470Ω | 0.13 R$ | 1 |
+| Switch |  | 0.10 R$ | 1 |
+| Transistor NPN |  |  | 1 |	
+| Transformador |  |  | 1 |
 
  - ## Justificativa para escolha dos componentes
 
