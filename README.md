@@ -9,17 +9,18 @@ O projeto consiste no desenvolvimento e simulação de uma fonte de tensão que 
 ![Diagrama Falstad](https://user-images.githubusercontent.com/50035537/85180096-f249a400-b258-11ea-9882-2796481ba3f4.png)
 
 - ## Componentes
-
-  | Nome | Especificações | Preço (unidade)| Quantidade | 
-  |Resistor|--|--|--|
-  |Resistor|--|--|
-  |Resistor|--|--|--|
-  |Capacitor|--|--|--|
-  |Diodo Zener|--|--|--|
-  |Transformador|--|--|--|
-  |Diodo|--|--|--|
-  |Potênciometro|--|--|
-  |--|--|--|--|
+| Nome | Especificações | Preço(unidade) | Quantidade |
+|--|--|--|--|
+| Resistor |  |  |  |
+| Resistor |  |  |  |
+| Resistor |  |  |  |
+| Capacitor |  |  |  |
+| Diodo Zener |  |  |  |
+| Transformador |  |  |  |
+| Diodo |  |  |  |
+| Potênciometro |  |  |  |
+| Resistor |  |  |  |
+| Resistor |  |  |  |
 
 - ## Justificativa para escolha dos componentes
 
