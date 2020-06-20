@@ -20,7 +20,7 @@ O projeto consiste no desenvolvimento e simulação de uma fonte de tensão que 
 	
 	- Resistor:
 	
-	-Switch:
+	- Switch:
 	
 	- Transistor NPN:
 	
