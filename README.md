@@ -18,17 +18,35 @@ O projeto consiste no desenvolvimento e simulação de uma fonte de tensão que 
 | Resistor | 120Ω | 0.10 R$ | 1 |
 | Resistor  | 390Ω | 0.96 R$ | 1 |
 | Resistor | 470Ω | 0.13 R$ | 1 |
-| Swtich |  | 0.10 R$ | 1 |
+| Switch |  | 0.10 R$ | 1 |
 | Transistor NPN |  |  | 1 |	
 | Transformador |  |  | 1 |
 
- - ## Justificativa para escolha dos componentes
-
+ - ## Função dos componentes
+ 	- Capacitor: Estabilização da tensão no circuito
+	
+	- Diodos: Foram dispostos de maneira que formem uma ponte de diodos, a qual tem por função transformas a corrente alternada vinda da tomada em corrente contínua no circuito.
+	
+	- Diodo Zener:
+	
+	- Potênciometro:
+	
+	- Resistor:
+	
+	-Switch:
+	
+	- Transistor NPN:
+	
 	- Transformador: Converter a Tensão de 127V da tomada para 20V.
 	
-	- Diodos: Foram dispostos de maneira que formem uma ponte de diodos, a 		      qual tem por função transformas a corrente alternada vinda da tomada em corrente contínua no circuito.
+
+ - ## Justificativa para escolha dos componentes
+
+	- Transformador:
 	
-	- Capacitor de 470µF: Estabilização da tensão no circuito
+	- Diodos:
+	
+	- Capacitor de 470µF:
 	
 	- Resistor de 470Ω:
 	
