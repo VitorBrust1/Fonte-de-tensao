@@ -6,7 +6,8 @@ O projeto consiste no desenvolvimento e simulação de uma fonte de tensão que 
 
 - ## Diagrama
 
-![Diagrama Falstad](https://user-images.githubusercontent.com/50035537/85180096-f249a400-b258-11ea-9882-2796481ba3f4.png)
+![Diagrama Falstad](https://user-images.githubusercontent.com/50035537/85894871-ee270480-b7cb-11ea-880a-54c6f959e943.png)
+
 
  - ## Componentes utilizados
  
@@ -69,10 +70,11 @@ O projeto consiste no desenvolvimento e simulação de uma fonte de tensão que 
 # Projeto do Esquemático e do PCB no EAGLE
 
 - ## Esquemático
-  (imagem do esquemático)
+  ![Esquemático Eagle](https://user-images.githubusercontent.com/50035537/85894919-039c2e80-b7cc-11ea-94b1-561e1887bce7.jpeg)
+
 
 - ## PCB
-  (imagem do PCB)
+  ![PCB](https://user-images.githubusercontent.com/50035537/85894935-0b5bd300-b7cc-11ea-9720-afdfa974d3c0.jpeg)
 
 # Participantes
 
