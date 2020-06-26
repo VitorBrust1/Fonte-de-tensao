@@ -62,7 +62,7 @@ O projeto consiste no desenvolvimento e simulação de uma fonte de tensão que 
 	- Resistor de 120Ω :
   
 - ## Link para o circuito no falstad
-  http://tinyurl.com/y8896mdu  
+  http://tinyurl.com/yboz8xpa
 - ## Link para o vídeo explicativo:
   https://www.youtube.com/channel/UCYX2BrasfmQPxD01NNn-ICA?view_as=subscriber
 
