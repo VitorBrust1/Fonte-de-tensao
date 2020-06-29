@@ -13,9 +13,9 @@ O projeto consiste no desenvolvimento e simulação de uma fonte de tensão que 
  
  	- Capacitor: Estabilização da tensão no circuito por meio do armazenamento de quantidades de energia.
 	
-	- Diodo: Permite que a corrente corra em um único sentido. Foram dispostos de maneira que formem uma ponte de diodos, a qual tem por função transformar a corrente alternada vinda da tomada em corrente contínua no circuito.
+	- Ponte de Diodos: Aproveitar os dois ciclos da tensão (Ajuda na transformação da corrente alternada vinda da tomada em corrente contínua no circuito).
 	
-	- Diodo Zener: 
+	- Diodo Zener: Limitar a tensão que passa pelo circuito.
 	
 	- Potênciometro: Resistor em que é possível ajustar sua potência.
 	
@@ -23,9 +23,9 @@ O projeto consiste no desenvolvimento e simulação de uma fonte de tensão que 
 	
 	- Switch: Permitir a passagem de corrente elétrica para o circuito, funcionando como uma chave de liga e desliga.
 	
-	- Transistor NPN: 
+	- Transistor NPN: Regula a corrente de coletor a partir da corrente de base, na qual a corrente de coletor é 100x a corrente de base.
 	
-	- Transformador: Converter a Tensão de 127V da tomada para 20V.
+	- Transformador: Converter a Tensão de 127V da tomada para 20V no circuito.
 	
  - ## Preços e especificações
  
@@ -37,7 +37,7 @@ O projeto consiste no desenvolvimento e simulação de uma fonte de tensão que 
 | Potênciometro | 1KΩ / 0.2W | [1.23 R$](https://www.baudaeletronica.com.br/potenciometro-linear-rotativo-de-1k-1000.html) | 1 |
 | Resistor | 390Ω / 0.25W | [0.12 R$](https://produto.mercadolivre.com.br/MLB-873476711-resistor-390-ohms-14w-5-kit-100-pcs-_JM?quantity=1#position=21&type=item&tracking_id=bb601283-825f-405d-88d3-7b98e6115a90) | 1 |
 | Resistor | 470Ω / 0.25W | [0.86 R$](https://produto.mercadolivre.com.br/MLB-868726201-kit-10-x-resistor-470-ohm-5-14w-025w-leds-5mm-arduino-pic-_JM?quantity=1#position=3&type=item&tracking_id=47bb88f9-93a7-404e-95fa-2983eb8989df) | 1 |
-| Switch | 250V / 6A | [8.90 R$](https://produto.mercadolivre.com.br/MLB-1273705844-chave-gangorra-redonda-on-off-spst-_JM?quantity=1#position=17&type=item&tracking_id=b7cc1b9b-29d5-4e13-a0b3-b4ef4f160cbb) R$ | 1 |
+| Switch | 250V / 6A | [8.90 R$](https://produto.mercadolivre.com.br/MLB-1273705844-chave-gangorra-redonda-on-off-spst-_JM?quantity=1#position=17&type=item&tracking_id=b7cc1b9b-29d5-4e13-a0b3-b4ef4f160cbb) | 1 |
 | Transistor NPN | 60V / 0.8A | [0.60 R$](https://produto.mercadolivre.com.br/MLB-1222136291-20-pecas-transistor-npn-2n2222a-_JM?quantity=1#position=1&type=item&tracking_id=a8cdd5b8-c51f-44e9-a07f-8d04e5635adc) | 1 |	
 | Transformador |  |  | 1 |
 
@@ -49,15 +49,15 @@ O projeto consiste no desenvolvimento e simulação de uma fonte de tensão que 
 	
 	- Capacitor de 470µF: Aguenta uma tensão de 25V, sendo que o mínimo necessario pro circuito é de aproximadamente 21V.
 	
-	- Resistor de 470Ω: Aguenta uma potência de até 0.25W, sendo que o mínimo necessário para o circuito é de aproximadamente 0.13W. 
+	- Resistor de 470Ω: Aguenta uma potência de até 0.25W, sendo que o mínimo necessário para o circuito é de aproximadamente 0.13W. Ele tem por função diminuir a corrente que passará pelo diodo zener. 
 	
-	- Resistor de 390Ω: Aguenta uma potência de até 0.25W, sendo que o mínimo necessário para o circuito é de aproximadamente 0.13W.
+	- Resistor de 390Ω: Aguenta uma potência de até 0.25W, sendo que o mínimo necessário para o circuito é de aproximadamente 0.13W. Ele tem por função , junto ao potênciometro, limitar a tensão de saída do circuito entre 3V e 12V.
 	
-	- Diodo Zener 13V: Aguenta uma tensão de 13V
+	- Diodo Zener 13V: Aguenta uma tensão de 13V. Ele tem por função limitar a tensão no circuito em até 13V.
 	
 	- Transistor NPN: Aguenta 60V e 0.8A, sendo que a corrente máxima que passará por ele é de 0.1A e uma tensão máxima de 8.4V.
 	
-	- Potênciometro de 1KΩ: Aguenta uma potência de 0.2W, e o circuito necessita de um potênciomentro que aguente 0.1W.
+	- Potênciometro de 1KΩ: Aguenta uma potência de 0.2W, e o circuito necessita de um potênciomentro que aguente 0.1W. Permite a regulagem da quantidade de tensão (3V a 12V) na saída do circuito.
   
 - ## Link para o circuito no falstad
   http://tinyurl.com/yboz8xpa
