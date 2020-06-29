@@ -31,7 +31,7 @@ O projeto consiste no desenvolvimento e simulação de uma fonte de tensão que 
  
 | Nome | Especificações | Preço(unidade) | Quantidade |
 |--|--|--|--|
-| Capacitor | 470µF / 25V | [0.30 R$](https://www.baudaeletronica.com.br/capacitor-eletrolitico-470uf-25v.html) | 1 |
+| Capacitor | 470µF / 25V | 0.30 R$ | 1 |
 | Diodo |  | 0.10 R$ | 4 |
 | Diodo Zener | 13V | 0.82 R$ | 1 |
 | Potênciometro | 1KΩ | 1.11 R$ | 1 |
