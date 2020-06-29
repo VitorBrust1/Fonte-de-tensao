@@ -34,7 +34,7 @@ O projeto consiste no desenvolvimento e simulação de uma fonte de tensão que 
 | Capacitor | 470µF / 25V | [0.33 R$](https://www.baudaeletronica.com.br/capacitor-eletrolitico-470uf-25v.html) | 1 |
 | Ponte de Diodo 2W10 | 1000V / 2A | [0.90 R$](https://produto.mercadolivre.com.br/MLB-1425220046-20pcs-diodo-2w10-2a-1000v-ponte-retificadora-queima-de-estoq-_JM?quantity=1#position=2&type=item&tracking_id=7da9028e-051c-4f32-9131-fbebcf4951f3) | 1 |
 | Diodo Zener | 13V / 0.1A | [1.06 R$](https://produto.mercadolivre.com.br/MLB-911630639-10-pcs-diodo-zener-13v-1w-1n4743frete-brasil-r1200-_JM?quantity=1#position=1&type=item&tracking_id=04c09c17-2e4c-4791-8f42-f5dba14f20db) | 1 |
-| Potênciometro | 1KΩ / 0.2W | [1.24 R$](https://www.baudaeletronica.com.br/potenciometro-linear-rotativo-de-1k-1000.html) | 1 |
+| Potênciometro | 1KΩ / 0.2W | [1.23 R$](https://www.baudaeletronica.com.br/potenciometro-linear-rotativo-de-1k-1000.html) | 1 |
 | Resistor | 390Ω / 0.25W | [0.12 R$](https://produto.mercadolivre.com.br/MLB-873476711-resistor-390-ohms-14w-5-kit-100-pcs-_JM?quantity=1#position=21&type=item&tracking_id=bb601283-825f-405d-88d3-7b98e6115a90) | 1 |
 | Resistor | 470Ω / 0.25W | [0.86 R$](https://produto.mercadolivre.com.br/MLB-868726201-kit-10-x-resistor-470-ohm-5-14w-025w-leds-5mm-arduino-pic-_JM?quantity=1#position=3&type=item&tracking_id=47bb88f9-93a7-404e-95fa-2983eb8989df) | 1 |
 | Switch | 250V / 6A | [8.90 R$](https://produto.mercadolivre.com.br/MLB-1273705844-chave-gangorra-redonda-on-off-spst-_JM?quantity=1#position=17&type=item&tracking_id=b7cc1b9b-29d5-4e13-a0b3-b4ef4f160cbb) | 1 |
