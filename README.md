@@ -39,11 +39,11 @@ O projeto consiste no desenvolvimento e simulação de uma fonte de tensão que 
 | Resistor | 470Ω / 0.25W | [0.86 R$](https://produto.mercadolivre.com.br/MLB-868726201-kit-10-x-resistor-470-ohm-5-14w-025w-leds-5mm-arduino-pic-_JM?quantity=1#position=3&type=item&tracking_id=47bb88f9-93a7-404e-95fa-2983eb8989df) | 1 |
 | Switch | 250V / 6A | [8.90 R$](https://produto.mercadolivre.com.br/MLB-1273705844-chave-gangorra-redonda-on-off-spst-_JM?quantity=1#position=17&type=item&tracking_id=b7cc1b9b-29d5-4e13-a0b3-b4ef4f160cbb) | 1 |
 | Transistor NPN | 60V / 0.8A | [0.60 R$](https://produto.mercadolivre.com.br/MLB-1222136291-20-pecas-transistor-npn-2n2222a-_JM?quantity=1#position=1&type=item&tracking_id=a8cdd5b8-c51f-44e9-a07f-8d04e5635adc) | 1 |	
-| Transformador |  |  | 1 |
+| Transformador | 127V / 220V | [76.00 R$](https://www.viewtech.ind.br/catalog/product/view/id/3972/s/autotransformador-500va-110v-220v-bivolt/?utm_source=&utm_medium=&utm_campaign=&utm_term=&utm_content=&gclid=Cj0KCQjwoub3BRC6ARIsABGhnybLfUtYToxigt_hA1BKP5rDfu7k-AI21gttJaz3zLrME670AAGzHXwaAu6QEALw_wcB) | 1 |
 
  - ## Justificativa para escolha dos componentes
 
-	- Transformador: 
+	- Transformador: Tensão de 127V
 	
 	- Ponte de Diodos 2W10: Aguenta uma tensão de até 1000 V e bloqueia uma corrente de até 2 Amperes.
 	
