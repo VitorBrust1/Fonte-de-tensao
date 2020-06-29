@@ -32,30 +32,30 @@ O projeto consiste no desenvolvimento e simulação de uma fonte de tensão que 
 | Nome | Especificações | Preço(unidade) | Quantidade |
 |--|--|--|--|
 | Capacitor | 470µF / 25V | [0.33 R$](https://www.baudaeletronica.com.br/capacitor-eletrolitico-470uf-25v.html) | 1 |
-| Ponte de Diodo 2W10 |  | [0.90 R$](https://produto.mercadolivre.com.br/MLB-1425220046-20pcs-diodo-2w10-2a-1000v-ponte-retificadora-queima-de-estoq-_JM?quantity=1#position=2&type=item&tracking_id=7da9028e-051c-4f32-9131-fbebcf4951f3) | 1 |
-| Diodo Zener | 13V | 0.82 R$ | 1 |
-| Potênciometro | 1KΩ | [1.23 R$](https://www.baudaeletronica.com.br/potenciometro-linear-rotativo-de-1k-1000.html) | 1 |
-| Resistor | 390Ω | [0.12 R$](https://produto.mercadolivre.com.br/MLB-873476711-resistor-390-ohms-14w-5-kit-100-pcs-_JM?quantity=1#position=21&type=item&tracking_id=bb601283-825f-405d-88d3-7b98e6115a90) | 1 |
-| Resistor | 470Ω | [0.86 R$](https://produto.mercadolivre.com.br/MLB-868726201-kit-10-x-resistor-470-ohm-5-14w-025w-leds-5mm-arduino-pic-_JM?quantity=1#position=3&type=item&tracking_id=47bb88f9-93a7-404e-95fa-2983eb8989df) | 1 |
-| Switch |  | 0.10 R$ | 1 |
+| Ponte de Diodo 2W10 | 1000V / 2A | [0.90 R$](https://produto.mercadolivre.com.br/MLB-1425220046-20pcs-diodo-2w10-2a-1000v-ponte-retificadora-queima-de-estoq-_JM?quantity=1#position=2&type=item&tracking_id=7da9028e-051c-4f32-9131-fbebcf4951f3) | 1 |
+| Diodo Zener | 13V / 0.1A | [1.06 R$](https://produto.mercadolivre.com.br/MLB-1273705844-chave-gangorra-redonda-on-off-spst-_JM?quantity=1#position=17&type=item&tracking_id=b7cc1b9b-29d5-4e13-a0b3-b4ef4f160cbb) | 1 |
+| Potênciometro | 1KΩ / 0.2W | [1.23 R$](https://www.baudaeletronica.com.br/potenciometro-linear-rotativo-de-1k-1000.html) | 1 |
+| Resistor | 390Ω / 0.25W | [0.12 R$](https://produto.mercadolivre.com.br/MLB-873476711-resistor-390-ohms-14w-5-kit-100-pcs-_JM?quantity=1#position=21&type=item&tracking_id=bb601283-825f-405d-88d3-7b98e6115a90) | 1 |
+| Resistor | 470Ω / 0.25W | [0.86 R$](https://produto.mercadolivre.com.br/MLB-868726201-kit-10-x-resistor-470-ohm-5-14w-025w-leds-5mm-arduino-pic-_JM?quantity=1#position=3&type=item&tracking_id=47bb88f9-93a7-404e-95fa-2983eb8989df) | 1 |
+| Switch | 250V / 6A | [8.90 R$](https://produto.mercadolivre.com.br/MLB-1273705844-chave-gangorra-redonda-on-off-spst-_JM?quantity=1#position=17&type=item&tracking_id=b7cc1b9b-29d5-4e13-a0b3-b4ef4f160cbb) R$ | 1 |
 | Transistor NPN | 60V / 0.8A | [0.60 R$](https://produto.mercadolivre.com.br/MLB-1222136291-20-pecas-transistor-npn-2n2222a-_JM?quantity=1#position=1&type=item&tracking_id=a8cdd5b8-c51f-44e9-a07f-8d04e5635adc) | 1 |	
 | Transformador |  |  | 1 |
 
  - ## Justificativa para escolha dos componentes
 
-	- Transformador:
+	- Transformador: 
 	
 	- Ponte de Diodos 2W10: Aguenta uma tensão de até 1000 V e bloqueia uma corrente de até 2 Amperes.
 	
 	- Capacitor de 470µF: Aguenta uma tensão de 25V, sendo que o mínimo necessario pro circuito é de aproximadamente 21V.
 	
-	- Resistor de 470Ω: Aguenta uma potência de até 25W, sendo que o mínimo necessário para o circuito é de aproximadamente 0.13W. 
+	- Resistor de 470Ω: Aguenta uma potência de até 0.25W, sendo que o mínimo necessário para o circuito é de aproximadamente 0.13W. 
 	
-	- Resistor de 390Ω: Aguenta uma potência de até 25W, sendo que o mínimo necessário para o circuito é de aproximadamente 0.13W.
+	- Resistor de 390Ω: Aguenta uma potência de até 0.25W, sendo que o mínimo necessário para o circuito é de aproximadamente 0.13W.
 	
-	- Diodo Zener 13V:
+	- Diodo Zener 13V: Aguenta uma tensão de 13V
 	
-	- Transistor NPN:
+	- Transistor NPN: Aguenta 60V e 0.8A, sendo que a corrente máxima que passará por ele é de 0.1A e uma tensão máxima de 8.4V.
 	
 	- Potênciometro de 1KΩ: Aguenta uma potência de 0.2W, e o circuito necessita de um potênciomentro que aguente 0.1W.
   
