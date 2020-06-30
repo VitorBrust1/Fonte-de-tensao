@@ -51,11 +51,11 @@ O projeto consiste no desenvolvimento e simulação de uma fonte de tensão que 
 	
 	- Capacitor de 470µF: Aguenta uma tensão de até 25V, sendo que a tensão máxima nessa parte do circuito é de aproximadamente 21V.
 	
-	- Resistor de 470Ω: Limita a corrente que passa pelo diodo zener. Aguenta uma potência de até 0.25W, sendo o mínimo necessáirio de aproximadamente 0.13W.
+	- Resistor de 470Ω: Limita a corrente que passa pelo diodo zener. Aguenta uma potência de até 0.25W, sendo o mínimo necessário de aproximadamente 0.13W.
 	
 	- Resistor de 390Ω: Limitar a tensão da saída em no mínimo 3V, podendo assim colocar o potênciometro em resitência máxima. Aguenta uma potência de 0.25W, sendo o mínimo necessário aproximadamente 0.12W.
 	
-	- Diodo Zener 13V: Limita a tensão em 13V. Dessa forma, como ao passar pelo transistor há uma perda de 0.7V a saída terá uma tensão de no máximo 12.3V. Assim, para a saída ter exatos 12V o potênciometro não necessita ser colocado em sua mínima resistência.
+	- Diodo Zener 13V: Limita a tensão em 13V. Dessa forma, como ao passar pelo transistor há uma perda de 0.7V a saída terá uma tensão de no máximo 12.3V. Assim, para a saída ter exatos 12V, o potênciometro não necessita ser colocado em sua mínima resistência.
 	
 	- Transistor NPN: Aguenta 60V de tensão e suporta 800mA de corrente, sendo que a corrente máxima que passará por ele é de 100mA.
 	
