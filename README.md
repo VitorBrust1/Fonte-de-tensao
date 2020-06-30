@@ -1,6 +1,6 @@
 # Projeto Fonte de Tensão
   Projeto da disciplina Elêtronica para Computação (SSC0180-2020101) 2020, USP São Carlos.
-O projeto consiste no desenvolvimento e simulação de uma fonte de tensão que converta a corrente alternada da tomada de tensão 127V  para uma tensão ajustável de 3V a 12V de corrente contínua com capacidade de 100mA.
+O projeto consiste no desenvolvimento e simulação de uma fonte de tensão que converta a corrente alternada da tomada de tensão 110V ou de 220V  para uma tensão ajustável de 3V a 12V de corrente contínua com capacidade de 100mA.
 
 # Simulação da fonte no Falstad
 
@@ -15,7 +15,7 @@ O projeto consiste no desenvolvimento e simulação de uma fonte de tensão que 
 	
 	- Ponte de Diodos: Aproveitar os dois ciclos da tensão (Ajuda na transformação da corrente alternada vinda da tomada em corrente contínua no circuito).
 	
-	- Diodo Zener: Limitar a tensão que passa pelo circuito.
+	- Diodo Zener: Limitar a tensão que passa pelo circuito, estabelecendo uma tensão limite.
 	
 	- Potênciometro: Resistor em que é possível ajustar sua potência.
 	
@@ -25,7 +25,7 @@ O projeto consiste no desenvolvimento e simulação de uma fonte de tensão que 
 	
 	- Transistor NPN: Regula a corrente de coletor a partir da corrente de base, na qual a corrente de coletor é 100x a corrente de base.
 	
-	- Transformador: Converter a Tensão de 127V da tomada para 20V no circuito.
+	- Transformador: Converter a Tensão de 110V ou de 220V da tomada para 20V no circuito.
 	
  - ## Preços e especificações
  
@@ -39,25 +39,25 @@ O projeto consiste no desenvolvimento e simulação de uma fonte de tensão que 
 | Resistor | 470Ω / 0.25W | [0.86 R$](https://produto.mercadolivre.com.br/MLB-868726201-kit-10-x-resistor-470-ohm-5-14w-025w-leds-5mm-arduino-pic-_JM?quantity=1#position=3&type=item&tracking_id=47bb88f9-93a7-404e-95fa-2983eb8989df) | 1 |
 | Switch | 250V / 6A | [8.90 R$](https://produto.mercadolivre.com.br/MLB-1273705844-chave-gangorra-redonda-on-off-spst-_JM?quantity=1#position=17&type=item&tracking_id=b7cc1b9b-29d5-4e13-a0b3-b4ef4f160cbb) | 1 |
 | Transistor NPN | 60V / 0.8A | [0.60 R$](https://produto.mercadolivre.com.br/MLB-1222136291-20-pecas-transistor-npn-2n2222a-_JM?quantity=1#position=1&type=item&tracking_id=a8cdd5b8-c51f-44e9-a07f-8d04e5635adc) | 1 |	
-| Transformador | 127V / 220V | [76.00 R$](https://www.viewtech.ind.br/catalog/product/view/id/3972/s/autotransformador-500va-110v-220v-bivolt/?utm_source=&utm_medium=&utm_campaign=&utm_term=&utm_content=&gclid=Cj0KCQjwoub3BRC6ARIsABGhnybLfUtYToxigt_hA1BKP5rDfu7k-AI21gttJaz3zLrME670AAGzHXwaAu6QEALw_wcB) | 1 |
+| Transformador | (110V / 220V) / 1.2A / 12V + 12V | [35.00 R$](https://produto.mercadolivre.com.br/MLB-791922427-transformador-1212-12a-trafo-1200ma-12v-12v-ac-12a-trafo-_JM?quantity=1) | 1 |
 
  - ## Justificativa para escolha dos componentes
 
-	- Transformador: Tensão de 127V
+	- Transformador: Suporta uma corrente de 1.2A, e a corrente mínima que deve suportar no circuito é de aproximadamente 420mA.
 	
 	- Ponte de Diodos 2W10: Aguenta uma tensão de até 1000 V e bloqueia uma corrente de até 2 Amperes.
 	
-	- Capacitor de 470µF: Aguenta uma tensão de 25V, sendo que o mínimo necessario pro circuito é de aproximadamente 21V.
+	- Capacitor de 470µF: Aguenta uma tensão de até 25V, sendo que a tensão máxima nessa parte do circuito é de aproximadamente 21V.
 	
-	- Resistor de 470Ω: Aguenta uma potência de até 0.25W, sendo que o mínimo necessário para o circuito é de aproximadamente 0.13W. Ele tem por função diminuir a corrente que passará pelo diodo zener. 
+	- Resistor de 470Ω: Limita a corrente que passa pelo diodo zener. Aguenta uma potência de até 0.25W, sendo o mínimo necessáirio de aproximadamente 0.13W.
 	
-	- Resistor de 390Ω: Aguenta uma potência de até 0.25W, sendo que o mínimo necessário para o circuito é de aproximadamente 0.13W. Ele tem por função , junto ao potênciometro, limitar a tensão de saída do circuito entre 3V e 12V.
+	- Resistor de 390Ω: Limitar a tensão da saída em no mínimo 3V, podendo assim colocar o potênciometro em resitência máxima. Aguenta uma potência de 0.25W, sendo o mínimo necessário aproximadamente 0.12W.
 	
-	- Diodo Zener 13V: Aguenta uma tensão de 13V. Ele tem por função limitar a tensão no circuito em até 13V.
+	- Diodo Zener 13V: Limita a tensão em 13V. Dessa forma, como ao passar pelo transistor há uma perda de 0.7V a saída terá uma tensão de no máximo 12.3V. Assim, para a saída ter exatos 12V o potênciometro não necessita ser colocado em sua mínima resistência.
 	
-	- Transistor NPN: Aguenta 60V e 0.8A, sendo que a corrente máxima que passará por ele é de 0.1A e uma tensão máxima de 8.4V.
+	- Transistor NPN: Aguenta 60V de tensão e suporta 800mA de corrente, sendo que a corrente máxima que passará por ele é de 100mA.
 	
-	- Potênciometro de 1KΩ: Aguenta uma potência de 0.2W, e o circuito necessita de um potênciomentro que aguente 0.1W. Permite a regulagem da quantidade de tensão (3V a 12V) na saída do circuito.
+	- Potênciometro de 1KΩ: Suporta uma potência de 0.20W, e no circuito o potênciometro tem que suportar 0.13W. Regula a corrente que vai para a base do transistor NPN, permitindo que na saída tenha uma variação de 3V~12V e 24.5mA~100mA.
   
 - ## Link para o circuito no falstad
   http://tinyurl.com/yboz8xpa
