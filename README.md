@@ -59,7 +59,7 @@ O projeto consiste no desenvolvimento e simulação de uma fonte de tensão que 
 	
 	- Transistor NPN: Aguenta 60V de tensão e suporta 800mA de corrente, sendo que a corrente máxima que passará por ele é de 100mA.
 	
-	- Potênciometro de 1KΩ: Suporta uma potência de 0.20W, e no circuito o potênciometro tem que suportar 0.13W. Regula a corrente que vai para a base do transistor NPN, permitindo que na saída tenha uma variação de 3V~12V e 24.5mA~100mA.
+	- Potênciometro de 1KΩ: Suporta uma potência de 0.20W, e no circuito tem que suportar 0.13W. Regula a corrente que vai para a base do transistor NPN, permitindo que na saída tenha uma variação de 3V ~ 12V e 24.5mA ~ 100mA.
   
 - ## Link para o circuito no falstad
   http://tinyurl.com/yboz8xpa
