@@ -17,7 +17,7 @@ O projeto consiste no desenvolvimento e simulação de uma fonte de tensão que 
 	
 	- Diodo Zener: Limitar a tensão que passa pelo circuito, estabelecendo uma tensão limite.
 	
-	- Potênciometro: Resistor em que é possível ajustar sua potência.
+	- Potênciometro: Resistor em que é possível ajustar sua resistência.
 	
 	- Resistor: Limitar a corrente elétrica em um circuito.
 	
