@@ -41,6 +41,8 @@ O projeto consiste no desenvolvimento e simulação de uma fonte de tensão que 
 | Transistor NPN | 60V / 0.8A | [0.60 R$](https://produto.mercadolivre.com.br/MLB-1222136291-20-pecas-transistor-npn-2n2222a-_JM?quantity=1#position=1&type=item&tracking_id=a8cdd5b8-c51f-44e9-a07f-8d04e5635adc) | 1 |	
 | Transformador | (110V / 220V) / 1.2A / 12V + 12V | [35.00 R$](https://produto.mercadolivre.com.br/MLB-791922427-transformador-1212-12a-trafo-1200ma-12v-12v-ac-12a-trafo-_JM?quantity=1) | 1 |
 
+**Custo Total**: 49.00 R$.
+
  - ## Justificativa para escolha dos componentes
 
 	- Transformador: Suporta uma corrente de 1.2A, e a corrente mínima que deve suportar no circuito é de aproximadamente 420mA.
