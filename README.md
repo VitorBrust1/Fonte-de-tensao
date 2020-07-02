@@ -38,7 +38,7 @@ O projeto consiste no desenvolvimento e simulação de uma fonte de tensão que 
 | Resistor | 390Ω / 0.25W | [0.12 R$](https://produto.mercadolivre.com.br/MLB-873476711-resistor-390-ohms-14w-5-kit-100-pcs-_JM?quantity=1#position=21&type=item&tracking_id=bb601283-825f-405d-88d3-7b98e6115a90) | 1 |
 | Resistor | 470Ω / 0.25W | [0.86 R$](https://produto.mercadolivre.com.br/MLB-868726201-kit-10-x-resistor-470-ohm-5-14w-025w-leds-5mm-arduino-pic-_JM?quantity=1#position=3&type=item&tracking_id=47bb88f9-93a7-404e-95fa-2983eb8989df) | 1 |
 | Switch | 250V / 6A | [8.90 R$](https://produto.mercadolivre.com.br/MLB-1273705844-chave-gangorra-redonda-on-off-spst-_JM?quantity=1#position=17&type=item&tracking_id=b7cc1b9b-29d5-4e13-a0b3-b4ef4f160cbb) | 1 |
-| Transistor NPN | 60V / 0.8A | [0.60 R$](https://produto.mercadolivre.com.br/MLB-1222136291-20-pecas-transistor-npn-2n2222a-_JM?quantity=1#position=1&type=item&tracking_id=a8cdd5b8-c51f-44e9-a07f-8d04e5635adc) | 1 |	
+| Transistor NPN 2n2222a| 60V / 0.8A | [0.60 R$](https://produto.mercadolivre.com.br/MLB-1222136291-20-pecas-transistor-npn-2n2222a-_JM?quantity=1#position=1&type=item&tracking_id=a8cdd5b8-c51f-44e9-a07f-8d04e5635adc) | 1 |	
 | Transformador | (110V / 220V) / 1.2A / 12V + 12V | [35.00 R$](https://produto.mercadolivre.com.br/MLB-791922427-transformador-1212-12a-trafo-1200ma-12v-12v-ac-12a-trafo-_JM?quantity=1) | 1 |
 
 **Custo Total**: 49.00 R$.
