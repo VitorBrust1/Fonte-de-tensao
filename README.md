@@ -64,8 +64,7 @@ O projeto consiste no desenvolvimento e simulação de uma fonte de tensão que 
 - ## Link para o circuito no falstad
   http://tinyurl.com/yboz8xpa
 - ## Link para o vídeo explicativo:
-  https://www.youtube.com/channel/UCYX2BrasfmQPxD01NNn-ICA?view_as=subscriber
-
+  https://www.youtube.com/watch?v=hgTtiHER5eE&feature=youtu.be
 # Projeto do Esquemático e do PCB no EAGLE
 
 - ## Esquemático
