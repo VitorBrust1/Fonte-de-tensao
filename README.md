@@ -105,4 +105,4 @@ O projeto consiste no desenvolvimento e simulação de uma fonte de tensão que 
 
  - João Antônio Misson Milhorim. Número USP: 18834331.
  - João Victor Sene Araújo. Número USP: 11796382.
- - Vitor Caetano Brustolin. Número USP: 11795589.
+ - Vitor Caetano Brustolin. Número USP: 11795589. Github: https://github.com/VitorBrust1
