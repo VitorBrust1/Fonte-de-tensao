@@ -84,15 +84,20 @@ O projeto consiste no desenvolvimento e simulação de uma fonte de tensão que 
  Por meio dessas alterações haverá menos desperdício de corrente no circuito e os valores de saída da fonte não sofrerão desvios consideráveis ou que comprometam o objetivo do trabalho. Junto a isso, o preço dos novos componentes se assemelham com o preço dos componentes do projeto original e, portanto, o projeto, após as moficações, não sofrerá aumento no custo de produção.
  
  - ## Link para o circuito no falstad após modificações recomendadas
-  http://tinyurl.com/y8upkvnn
+ 
+ 	http://tinyurl.com/y8upkvnn
+	
  - ## Diagrama após modificações recomendadas
+ 
 ![Diagrama Falstad Modificações](https://user-images.githubusercontent.com/50035537/86396342-215c0e80-bc78-11ea-87d1-6391daad0335.png)
+
  - ## Preços e especificações após modificações recomendadas
+ 
  | Nome | Especificações | Preço(unidade) | Quantidade |
 |--|--|--|--|
 | Resistor | 2.2kΩ / 0.25W | [0.08 R$](https://www.baudaeletronica.com.br/resistor-2k2-5-1-4w.html) | 1 |
 | Resistor| 1kΩ / 0.25W | [0.08 R$](https://www.baudaeletronica.com.br/resistor-1k-5-1-4w.html)| 1 |
-| Potênciometro | 5kΩ / 0.2W | [1.09 R$](https://www.baudaeletronica.com.br/potenciometro-linear-de-5k-5000.html)| 1 |
+| Potênciometro | 5kΩ / 0.20W | [1.09 R$](https://www.baudaeletronica.com.br/potenciometro-linear-de-5k-5000.html)| 1 |
 
 **Preço Total após modificações**: 48.04 R$.
 
